@@ -54,7 +54,7 @@ namespace Program {
                 double arrCurrVal;
                 Console.WriteLine("How many values would you like to enter: ");
                 int numNumbs = Convert.ToInt32(Console.ReadLine());
-                for(int i=0; i<=numNumbs; i++){
+                for(int i=0; i<numNumbs; i++){
                     bool isAdded = false;
                     int counter = 0;
                     Console.WriteLine("Enter value: ");
@@ -106,6 +106,13 @@ namespace Program {
             }
         }
     }
+    /*/namespace Objects {
+        public class Employee {
+            public static void schools(){
+
+            }
+        }
+    }*/
     public class MainProgram {
         public static void Main(String[] args) {
             bool runProgram = true;
@@ -115,6 +122,7 @@ namespace Program {
                 Console.WriteLine("(2) Find the Longest String in a file");
                 Console.WriteLine("(3) Sort a file with one value on each line using merge sort");
                 Console.WriteLine("(4) Insertion Sort");
+                Console.WriteLine("(5) Objects");
                 Console.WriteLine("(9) Exit Program");
                 int funcToRun = Convert.ToInt32(Console.ReadLine());
                 if(funcToRun == 1){
@@ -141,10 +149,12 @@ namespace Program {
                     }
                     Console.Write("]\n");
                 }
+                else if(funcToRun == 5){
+                    //Implementation will be done later.
+                }
                 else if(funcToRun == 9){
                     runProgram = false;
                     Console.WriteLine("Exiting...");
-                    // Environment.Exit(0);
                 }
                 else{
                     Console.WriteLine("Pick a valid option.");

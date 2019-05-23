@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Austin\\Desktop\\C# Practice\\DataStructures\\Arrays & Strings\\Arrays & Strings.csproj",
+      "projectUniqueName": "C:\\Users\\Austin\\Desktop\\C-Sharp\\DataStructures\\Arrays & Strings\\Arrays & Strings.csproj",
       "projectName": "Arrays & Strings",
-      "projectPath": "C:\\Users\\Austin\\Desktop\\C# Practice\\DataStructures\\Arrays & Strings\\Arrays & Strings.csproj",
+      "projectPath": "C:\\Users\\Austin\\Desktop\\C-Sharp\\DataStructures\\Arrays & Strings\\Arrays & Strings.csproj",
       "packagesPath": "C:\\Users\\Austin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Austin\\Desktop\\C# Practice\\DataStructures\\Arrays & Strings\\obj\\",
+      "outputPath": "C:\\Users\\Austin\\Desktop\\C-Sharp\\DataStructures\\Arrays & Strings\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
