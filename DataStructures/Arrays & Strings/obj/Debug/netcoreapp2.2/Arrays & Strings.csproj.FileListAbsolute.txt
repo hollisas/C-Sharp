@@ -1,0 +1,11 @@
+C:\Users\Austin\Desktop\C# Practice\DataStructures\Arrays & Strings\obj\Debug\netcoreapp2.2\Arrays & Strings.csprojAssemblyReference.cache
+C:\Users\Austin\Desktop\C# Practice\DataStructures\Arrays & Strings\obj\Debug\netcoreapp2.2\Arrays & Strings.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Desktop\C# Practice\DataStructures\Arrays & Strings\obj\Debug\netcoreapp2.2\Arrays & Strings.AssemblyInfoInputs.cache
+C:\Users\Austin\Desktop\C# Practice\DataStructures\Arrays & Strings\obj\Debug\netcoreapp2.2\Arrays & Strings.AssemblyInfo.cs
+C:\Users\Austin\Desktop\C# Practice\DataStructures\Arrays & Strings\bin\Debug\netcoreapp2.2\Arrays & Strings.deps.json
+C:\Users\Austin\Desktop\C# Practice\DataStructures\Arrays & Strings\bin\Debug\netcoreapp2.2\Arrays & Strings.runtimeconfig.json
+C:\Users\Austin\Desktop\C# Practice\DataStructures\Arrays & Strings\bin\Debug\netcoreapp2.2\Arrays & Strings.runtimeconfig.dev.json
+C:\Users\Austin\Desktop\C# Practice\DataStructures\Arrays & Strings\bin\Debug\netcoreapp2.2\Arrays & Strings.dll
+C:\Users\Austin\Desktop\C# Practice\DataStructures\Arrays & Strings\bin\Debug\netcoreapp2.2\Arrays & Strings.pdb
+C:\Users\Austin\Desktop\C# Practice\DataStructures\Arrays & Strings\obj\Debug\netcoreapp2.2\Arrays & Strings.dll
+C:\Users\Austin\Desktop\C# Practice\DataStructures\Arrays & Strings\obj\Debug\netcoreapp2.2\Arrays & Strings.pdb
